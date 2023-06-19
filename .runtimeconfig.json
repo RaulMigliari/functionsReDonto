@@ -1,0 +1,8 @@
+{
+  "firebase": {
+    "projectId": "redonto-951d8",
+    "databaseURL": "https://redonto-951d8-default-rtdb.firebaseio.com",
+    "storageBucket": "redonto-951d8.appspot.com",
+    "locationId": "southamerica-east1"
+  }
+}
